@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+
+}
+
+h1{
+  text-align: center;
+  color:#CE9461;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 5rem;
+}
+
+.para{
+  text-align: left;
+}
+
+h5{
+  text-align: left;
+}
+
+.abc{
+  width: 250px;
+  margin:50px auto 0;
+}
